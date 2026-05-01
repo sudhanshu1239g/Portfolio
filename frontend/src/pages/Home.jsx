@@ -78,13 +78,10 @@ function Home() {
         <div className="home-v2-intro">
           <h1 className="home-v2-title">Hey, I&apos;m Sudhanshu 👋</h1>
           <p className="home-v2-summary">
-            I&apos;m currently in my 6th semester of B.Tech in Computer Science and Engineering from
-            Delhi Technological University (DTU). As a dedicated software developer, I&apos;m committed to
-            expanding my knowledge in programming, with a focus on DSA and web development.
+            I&apos;m a final year B.Tech CSE student at Delhi Technological University (DTU) with a strong foundation in Data Structures & Algorithms and software development, I&apos;m deeply passionate about problem-solving, backend development, and building impactful tech products. 
           </p>
           <p className="home-v2-summary">
-            I enjoy working on innovative software solutions and collaborating with like-minded
-            individuals to bring ideas to life.
+            Always learning, always growing—aiming to be best. Currently exploring job opportunities where I can learn, contribute, and sharpen my skills alongside brilliant minds.
           </p>
 
           <div className="home-v2-actions">
