@@ -4,6 +4,7 @@ import scatch1 from "../assets/scatch1.png";
 import skillBridge from "../assets/skillBridgePic.png";
 import social from "../assets/social-project1.png";
 import sorting from "../assets/sorting.png";
+import animeList from "../assets/animeList.png";
 
 const projects = [
   {
@@ -21,6 +22,14 @@ const projects = [
     stack: ["React.js", "Node.js", "MongoDB", "Express.js", "Docker"],
     link: "https://social-media-networking-application.vercel.app",
     image: social,
+  },
+  {
+    title: "myAnimeList",
+    description:
+      "full stack web app with user authentication, dynamic anime listings, API integrations and features like watchlists and reviews",
+    stack: ["React.js", "Node.js", "MongoDB", "Express.js", "tailwind"],
+    link: "https://my-anime-list-seven.vercel.app/",
+    image: animeList,
   },
   {
     title: "Sorting Visualizer",
