@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
+import self from "../assets/self.png";
 
 function Home() {
   const skills = [
@@ -69,7 +70,7 @@ function Home() {
         <div className="home-v2-photo">
           <img
             className="home-v2-photo-img"
-            src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=700&q=80"
+            src={self}
             alt="Sudhanshu profile"
           />
         </div>
